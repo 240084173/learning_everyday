@@ -1,0 +1,36 @@
+# paddleocr 2.5.0.3安装完成无法调用，包路径不正确 · Issue #I56QUA · PaddlePaddle/PaddleOCR - Gitee.com
+paddleocr 2.5.0.3安装完成无法调用，包路径不正确
+--------------------------------
+
+paddleocr 2.5.0.3安装完成无法调用，包路径不正确  
+调用时出现这个  
+SystemError: Parent module 'tools' not loaded, cannot perform relative import
+
+我打开paddleocr.py文件  
+将
+
+```null
+tools = importlib.import_module('.' ,'tools')
+ppocr = importlib.import_module('.' ,'ppocr')
+ppstructure = importlib.import_module('.' , 'ppstructure')
+
+```
+
+修改为
+
+```null
+tools = importlib.import_module('tools')
+ppocr = importlib.import_module('ppocr')
+ppstructure = importlib.import_module( 'ppstructure')
+
+```
+
+才可以使用  
+话说，这个产品你们不用测试一下吗
+
+### 评论 (0)
+
+[![](https://portrait.gitee.com/uploads/avatars/user/657/1971283_SUNbrightness_1578963400.png!avatar100)
+](https://toscode.gitee.com/SUNbrightness "SUNbrightness")
+
+[登录](https://toscode.gitee.com/login) 后才可以发表评论
