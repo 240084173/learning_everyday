@@ -1,0 +1,1060 @@
+# "TSocket read 0 bytes" during a long running Hive insert query · Issue #240 · dropbox/PyHive
+            "TSocket read 0 bytes" during a long running Hive insert query · Issue #240 · dropbox/PyHive                                             
+
+[Skip to content](#start-of-content)
+
+ *   In this repository All GitHub ↵
+    
+    Jump to ↵
+    
+
+*   No suggested jump to results
+
+*   In this repository All GitHub ↵
+    
+    Jump to ↵
+    
+*   In this organization All GitHub ↵
+    
+    Jump to ↵
+    
+*   In this repository All GitHub ↵
+    
+    Jump to ↵
+
+[Dashboard](/dashboard) [Pull requests](/pulls) [Issues](/issues) [Codespaces](/codespaces)
+
+[Marketplace](/marketplace)
+
+[Explore](/explore) [Sponsors](/sponsors/accounts) [Settings](/settings/profile) [![](https://avatars.githubusercontent.com/u/4324382?s=40&v=4)
+ 240084173](/240084173) 
+
+ Sign out 
+
+[New repository](/new) [Import repository](/new/import) [New gist](https://gist.github.com/) [New organization](/organizations/new)
+
+ ![](https://avatars.githubusercontent.com/u/4324382?s=40&v=4)  
+
+Sorry, something went wrong.
+
+/  ...  /  
+
+dropbox  /   PyHive  /   Issues #240  /  
+
+ 
+
+Clear Command Palette
+
+Tip: Type # to search pull requests
+
+Type ? for help and tips
+
+Tip: Type # to search issues
+
+Type ? for help and tips
+
+Tip: Type # to search discussions
+
+Type ? for help and tips
+
+Tip: Type ! to search projects
+
+Type ? for help and tips
+
+Tip: Type @ to search teams
+
+Type ? for help and tips
+
+Tip: Type @ to search people and organizations
+
+Type ? for help and tips
+
+Tip: Type \> to activate command mode
+
+Type ? for help and tips
+
+Tip: Go to your accessibility settings to change your keyboard shortcuts
+
+Type ? for help and tips
+
+Tip: Type author:@me to search your content
+
+Type ? for help and tips
+
+Tip: Type is:pr to filter to pull requests
+
+Type ? for help and tips
+
+Tip: Type is:issue to filter to issues
+
+Type ? for help and tips
+
+Tip: Type is:project to filter to projects
+
+Type ? for help and tips
+
+Tip: Type is:open to filter to open content
+
+Type ? for help and tips
+
+We’ve encountered an error and some results aren't available at this time. Type a new search or try again later.
+
+No results matched your search
+
+Top result
+
+Commands Type > to filter
+
+Global Commands Type > to filter
+
+This Page
+
+Files
+
+Pages
+
+Access Policies
+
+Organizations
+
+Repositories
+
+Issues, pull requests, and discussions Type # to filter
+
+Teams
+
+Users
+
+Projects
+
+Modes
+
+Use filters in issues, pull requests, discussions, and projects
+
+Search for **issues** and **pull requests** # Search for **issues, pull requests, discussions,** and **projects** # Search for **organizations, repositories,** and **users** @ Search for **projects** ! Search for **files** / Activate **command mode** \> Search your issues, pull requests, and discussions \# author:@me Search your issues, pull requests, and discussions \# author:@me Filter to pull requests \# is:pr Filter to issues \# is:issue Filter to discussions \# is:discussion Filter to projects \# is:project Filter to open issues, pull requests, and discussions \# is:open
+
+[dropbox](/dropbox) / **[PyHive](/dropbox/PyHive)** Public
+
+*   Unwatch Stop ignoring Watch 64
+    
+    ### Notifications
+    
+        
+    
+    Participating and @mentions
+    
+    Only receive notifications from this repository when participating or @mentioned.
+    
+    All Activity
+    
+    Notified of all notifications on this repository.
+    
+    Ignore
+    
+    Never be notified.
+    
+    Custom
+    
+    Select events you want to be notified of in addition to participating and @mentions.
+    
+    Get push notifications on [iOS](https://apps.apple.com/app/apple-store/id1477376905?ct=watch-dropdown&mt=8&pt=524675) or [Android](https://play.google.com/store/apps/details?id=com.github.android&referrer=utm_campaign%3Dwatch-dropdown%26utm_medium%3Dweb%26utm_source%3Dgithub).
+    
+     Custom
+    ======
+    
+    Custom
+    ======
+    
+    Select events you want to be notified of in addition to participating and @mentions.
+    
+     Issues 
+    
+     Pull requests 
+    
+     Releases 
+    
+     Discussions  
+    
+     Security alerts 
+    
+    Apply Cancel
+    
+*   [Fork 520](/dropbox/PyHive/fork)
+    
+*        Starred  1.6k
+    
+        Star  1.6k
+    
+
+*   [Code](/dropbox/PyHive)
+*   [Issues 148](/dropbox/PyHive/issues)
+*   [Pull requests 47](/dropbox/PyHive/pulls)
+*   [Actions](/dropbox/PyHive/actions)
+*   [Projects 0](/dropbox/PyHive/projects)
+*   [Wiki](/dropbox/PyHive/wiki)
+*   [Security](/dropbox/PyHive/security)
+*   [Insights](/dropbox/PyHive/pulse)
+
+More
+
+*   [Code](/dropbox/PyHive)
+*   [Issues](/dropbox/PyHive/issues)
+*   [Pull requests](/dropbox/PyHive/pulls)
+*   [Actions](/dropbox/PyHive/actions)
+*   [Projects](/dropbox/PyHive/projects)
+*   [Wiki](/dropbox/PyHive/wiki)
+*   [Security](/dropbox/PyHive/security)
+*   [Insights](/dropbox/PyHive/pulse)
+
+[New issue](/dropbox/PyHive/issues/new/choose)
+
+[Jump to bottom](#issue-comment-box)
+
+"TSocket read 0 bytes" during a long running Hive insert query #240
+===================================================================
+
+Open
+
+[gseva](/gseva) opened this issue on 25 Sep 2018 · 17 comments
+
+Open
+
+["TSocket read 0 bytes" during a long running Hive insert query](#top) #240
+===========================================================================
+
+[gseva](/gseva) opened this issue on 25 Sep 2018 · 17 comments
+
+Comments
+--------
+
+[![](https://avatars.githubusercontent.com/u/2244417?s=88&v=4)
+](/gseva)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[gseva](/gseva)** commented [on 25 Sep 2018](#issue-363322895) •
+
+edited
+
+| 
+
+I'm running a long-ish insert query in Hive using PyHive 0.6.1 and it fails with `thrift.transport.TTransport.TTransportException: TSocket read 0 bytes` after about 5 minutes running. On the server side the query keeps running until finishing successfully. I don't have this problem with fast queries.
+
+The environment in which this happens is a Docker container based on `python:3.6-slim`. Among other things, i'm installing `libsasl2-dev` and `libsasl2-modules` packages, and `pyhive[hive]` python package. I can't reproduce it locally on my Mac with the same python version: the code correctly waits untill the query finishes.
+
+Any clue why this is happening? Thanks in advance.
+
+The code i'm using is:
+
+```python
+import contextlib
+from pyhive.hive import connect
+
+def get_conn():
+    return connect(
+        host='my-host',
+        port=10000,
+        auth='NONE',
+        username='username',
+        database='database'
+    )
+
+with contextlib.closing(get_conn()) as conn, \
+        contextlib.closing(conn.cursor()) as cur:
+    cur.execute('My long insert statement')
+```
+
+This is the full traceback
+
+```
+Traceback (most recent call last):
+  File "<stdin>", line 5, in <module>
+  File "/usr/local/lib/python3.6/site-packages/pyhive/hive.py", line 364, in execute
+    response = self._connection.client.ExecuteStatement(req)
+  File "/usr/local/lib/python3.6/site-packages/TCLIService/TCLIService.py", line 280, in ExecuteStatement
+    return self.recv_ExecuteStatement()
+  File "/usr/local/lib/python3.6/site-packages/TCLIService/TCLIService.py", line 292, in recv_ExecuteStatement
+    (fname, mtype, rseqid) = iprot.readMessageBegin()
+  File "/usr/local/lib/python3.6/site-packages/thrift/protocol/TBinaryProtocol.py", line 134, in readMessageBegin
+    sz = self.readI32()
+  File "/usr/local/lib/python3.6/site-packages/thrift/protocol/TBinaryProtocol.py", line 217, in readI32
+    buff = self.trans.readAll(4)
+  File "/usr/local/lib/python3.6/site-packages/thrift/transport/TTransport.py", line 60, in readAll
+    chunk = self.read(sz - have)
+  File "/usr/local/lib/python3.6/site-packages/thrift_sasl/__init__.py", line 166, in read
+    self._read_frame()
+  File "/usr/local/lib/python3.6/site-packages/thrift_sasl/__init__.py", line 170, in _read_frame
+    header = self._trans.readAll(4)
+  File "/usr/local/lib/python3.6/site-packages/thrift/transport/TTransport.py", line 60, in readAll
+    chunk = self.read(sz - have)
+  File "/usr/local/lib/python3.6/site-packages/thrift/transport/TSocket.py", line 132, in read
+    message='TSocket read 0 bytes')
+thrift.transport.TTransport.TTransportException: TSocket read 0 bytes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 5, in <module>
+  File "/usr/local/lib/python3.6/contextlib.py", line 185, in __exit__
+    self.thing.close()
+  File "/usr/local/lib/python3.6/site-packages/pyhive/hive.py", line 221, in close
+    response = self._client.CloseSession(req)
+  File "/usr/local/lib/python3.6/site-packages/TCLIService/TCLIService.py", line 218, in CloseSession
+    return self.recv_CloseSession()
+  File "/usr/local/lib/python3.6/site-packages/TCLIService/TCLIService.py", line 230, in recv_CloseSession
+    (fname, mtype, rseqid) = iprot.readMessageBegin()
+  File "/usr/local/lib/python3.6/site-packages/thrift/protocol/TBinaryProtocol.py", line 134, in readMessageBegin
+    sz = self.readI32()
+  File "/usr/local/lib/python3.6/site-packages/thrift/protocol/TBinaryProtocol.py", line 217, in readI32
+    buff = self.trans.readAll(4)
+  File "/usr/local/lib/python3.6/site-packages/thrift/transport/TTransport.py", line 60, in readAll
+    chunk = self.read(sz - have)
+  File "/usr/local/lib/python3.6/site-packages/thrift_sasl/__init__.py", line 166, in read
+    self._read_frame()
+  File "/usr/local/lib/python3.6/site-packages/thrift_sasl/__init__.py", line 170, in _read_frame
+    header = self._trans.readAll(4)
+  File "/usr/local/lib/python3.6/site-packages/thrift/transport/TTransport.py", line 60, in readAll
+    chunk = self.read(sz - have)
+  File "/usr/local/lib/python3.6/site-packages/thrift/transport/TSocket.py", line 132, in read
+    message='TSocket read 0 bytes')
+thrift.transport.TTransport.TTransportException: TSocket read 0 bytes 
+```
+
+
+
+ |
+| 
+
+The text was updated successfully, but these errors were encountered:
+
+
+
+ |
+
+ 
+
+👍 10 danielesser, noniu, gpiotti, wangzhanxd, louis925, flowerbeach, brunocampos01, Egiiegii, kempspo, and GeniusCY reacted with thumbs up emoji All reactions
+
+*   👍 10 reactions
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+[![](https://avatars.githubusercontent.com/u/5958717?s=88&u=66dd112a6acb220900ddb614910361a8c813d3a9&v=4)
+](/mauza)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[mauza](/mauza)** commented [on 15 Mar 2019](#issuecomment-473321260)
+
+| 
+
+We are periodically getting this same error. We haven't found a solution. Some ideas are hiveserver2 is set to http protocol instead of binary, the server is for some reason severing the connection...?
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/2244417?s=88&v=4)
+](/gseva)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+Author
+
+### **[gseva](/gseva)** commented [on 27 Mar 2019](#issuecomment-477183598)
+
+| 
+
+[@mauza](https://github.com/mauza) We had to rollback to an earlier version of pyhive. These are the versions we're using: `thrift==0.9.3 thrift_sasl==0.2.1 pyhive[hive]==0.2.1`
+
+ |
+
+ 
+
+🎉 4 JavadBahoosh, flowerbeach, Kon90, and sp3006 reacted with hooray emoji All reactions
+
+*   🎉 4 reactions
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/5958717?s=88&u=66dd112a6acb220900ddb614910361a8c813d3a9&v=4)
+](/mauza)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[mauza](/mauza)** commented [on 29 Mar 2019](#issuecomment-477805153)
+
+| 
+
+Thanks for sharing those versions. Looks like there might be some breaking changes in the version of pyhive we were using, but I'll work through those tomorrow. Maybe I should start a new thread because our problem is fairly intermittent and doesn't require a long running hive insert query...
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/5445716?s=88&u=97e227838e6f16ae7a85ee3c1c80f529d93c7691&v=4)
+](/meatheadmike)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[meatheadmike](/meatheadmike)** commented [on 17 Apr 2019](#issuecomment-483776057)
+
+| 
+
+Same issue here. Long sql statements simply freeze up for me and I eventually get that timeout. I'm running under docker with debian:stretch.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/7970563?s=88&u=f708b6c3f1ef5d7d7d474641bdfa7a1cc9bf857f&v=4)
+](/noniu)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[noniu](/noniu)** commented [on 20 Apr 2019](#issuecomment-485105893)
+
+| 
+
+Same issue here. after about 10 minutes running.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/12524881?s=88&v=4)
+](/kupi93)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[kupi93](/kupi93)** commented [on 24 Apr 2019](#issuecomment-486060929)
+
+| 
+
+I'm also struggling with same issue.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/36203477?s=88&u=b2bd2e99c5d774639b45b24f85683739159c7079&v=4)
+](/maddogdata)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[maddogdata](/maddogdata)** commented [on 30 Apr 2019](#issuecomment-487801656)
+
+| 
+
+Same issue here
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/1930065?s=88&v=4)
+](/JohnOmernik)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[JohnOmernik](/JohnOmernik)** commented [on 1 Jul 2019](#issuecomment-507273869)
+
+| 
+
+Is there any update on this? Getting this issue.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/494969?s=88&u=a8c827531961823471e578a425c75105324a7694&v=4)
+](/snivas)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[snivas](/snivas)** commented [on 14 Sep 2019](#issuecomment-531449353)
+
+| 
+
+Any updated?
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/6628839?s=88&u=b923c0eeb61cbea8d0526ad3a65b567310e8d545&v=4)
+](/emhlbmc)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[emhlbmc](/emhlbmc)** commented [on 21 Oct 2019](#issuecomment-544571211)
+
+| 
+
+Same issue
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/23101260?s=88&v=4)
+](/AndreyEmelyanenko)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[AndreyEmelyanenko](/AndreyEmelyanenko)** commented [on 28 Oct 2019](#issuecomment-546892842)
+
+| 
+
+Same issue. Hive 2.3.3.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/16302003?s=88&u=f2148f23461a2b2921ed82308f660f3b4c4bf1e4&v=4)
+](/SuiMingYang)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[SuiMingYang](/SuiMingYang)** commented [on 6 Jan 2020](#issuecomment-570992127)
+
+| 
+
+I change my hive's port from 22 to 10000, it works, maybe a help to you.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/3307517?s=88&u=df30baa5811b8eefdd7da20a49596d763774fe89&v=4)
+](/JavadBahoosh)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[JavadBahoosh](/JavadBahoosh)** commented [on 10 Mar 2020](#issuecomment-596631519)
+
+| 
+
+> [@mauza](https://github.com/mauza) We had to rollback to an earlier version of pyhive. These are the versions we're using: `thrift==0.9.3 thrift_sasl==0.2.1 pyhive[hive]==0.2.1`
+
+Thanks [@gseva](https://github.com/gseva). that saved my day.
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/15028683?s=88&u=76c79cac844f4ae98780471b732763dcf539897e&v=4)
+](/xianyinxin)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[xianyinxin](/xianyinxin)** commented [on 14 Apr 2020](#issuecomment-613337165)
+
+| 
+
+I encountered the same problem when i use 'auth=NOSASL'. Then I changed to 'auto=NONE' and I encountered another problem: 'TSaslClientTransport' object has no attribute 'readAll'. The later one is because the default installed thrift\_sasl (0.2.1) is not compatibal with python3. So after upgrading it, the problem resolved.
+
+final configs:  
+python: 3.6  
+pyhive: 0.6.2  
+thrift: 0.13.0  
+thrift\_sasl: 0.4.2
+
+ |
+
+ 
+
+🎉 2 aidan-melen and Torrence reacted with hooray emoji All reactions
+
+*   🎉 2 reactions
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/6799242?s=88&u=93d58e03b7dbc47ef47fd79add59c15a18a42616&v=4)
+](/wilberh)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[wilberh](/wilberh)** commented [on 2 Aug 2020](#issuecomment-667685903)
+
+| 
+
+Was this problem fixed in latest version?
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/6799242?s=88&u=93d58e03b7dbc47ef47fd79add59c15a18a42616&v=4)
+](/wilberh)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[wilberh](/wilberh)** commented [on 3 Aug 2020](#issuecomment-667706622)
+
+| 
+
+Here's a way to prevent connection reset/dropped on long running queries -
+
+(solved) Hive - connection dropped before job is done in Hadoop  
+[#358](https://github.com/dropbox/PyHive/issues/358)
+
+[https://github.com/dropbox/PyHive/tree/v0.6.2#db-api-asynchronous](https://github.com/dropbox/PyHive/tree/v0.6.2#db-api-asynchronous)  
+Doing an asynchronous sql query prevents the connection from getting dropped in sql queries that take long.
+
+fyi - if using an ORM (like peewee / sqlalchemy), then get the cursor from the "database" object.  
+example in peewee: **database.get\_cursor()**
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+[![](https://avatars.githubusercontent.com/u/54326778?s=88&u=f291fb519eff95838aab5cdac81dfd226ac0c9bf&v=4)
+](/aidan-melen)
+
+ *   👍
+*   👎
+*   😄
+*   🎉
+*   😕
+*   ❤️
+*   🚀
+*   👀
+
+Sorry, something went wrong.
+
+Quote reply
+
+### **[aidan-melen](/aidan-melen)** commented [on 6 Aug 2020](#issuecomment-669454920)
+
+| 
+
+> I encountered the same problem when i use 'auth=NOSASL'. Then I changed to 'auto=NONE' and I encountered another problem: 'TSaslClientTransport' object has no attribute 'readAll'. The later one is because the default installed thrift\_sasl (0.2.1) is not compatibal with python3. So after upgrading it, the problem resolved.
+> 
+> final configs:  
+> python: 3.6  
+> pyhive: 0.6.2  
+> thrift: 0.13.0  
+> thrift\_sasl: 0.4.2
+
+Also worked on python: 3.8
+
+ |
+
+ 
+
+All reactions
+
+ 
+
+Sorry, something went wrong.
+
+ 
+
+[![](https://avatars.githubusercontent.com/u/4324382?s=80&v=4)
+](/240084173)
+
+  
+
+Write Preview
+
+Add heading text Add bold text, <Ctrl+b> Add italic text, <Ctrl+i>
+
+Add a quote, <Ctrl+Shift+.> Add code, <Ctrl+e> Add a link, <Ctrl+k>
+
+Add a bulleted list, <Ctrl+Shift+8> Add a numbered list, <Ctrl+Shift+7> Add a task list, <Ctrl+Shift+l>
+
+Directly mention a user or team Reference an issue, pull request, or discussion
+
+Select a reply `ctrl .`
+
+Add saved reply
+
+Add heading text Add bold text, <Ctrl+b> Add italic text, <Ctrl+i> Add a bulleted list, <Ctrl+Shift+8> Add a numbered list, <Ctrl+Shift+7> Add a task list, <Ctrl+Shift+l>
+
+There was an error creating your Issue.
+
+ Attach files by dragging & dropping, selecting or pasting them.     Uploading your files…    We don’t support that file type.  Try again with a GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP.    Attaching documents requires write permission to this repository.  Try again with a GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP.    We don’t support that file type.  Try again with a GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP.     This file is empty.  Try again with a file that’s not empty.    This file is hidden.  Try again with another file.    Something went really wrong, and we can’t process that file.  Try again.    [  ](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) Styling with Markdown is supported 
+
+        
+
+Nothing to preview
+
+Comment
+
+Remember, contributions to this repository should follow our [GitHub Community Guidelines](https://docs.github.com/articles/github-community-guidelines).
+
+Assignees
+
+No one assigned
+
+Labels
+
+None yet
+
+Projects
+
+None yet
+
+Milestone
+
+No milestone
+
+Development
+
+No branches or pull requests
+
+Notifications
+
+Customize
+
+### Notification settings
+
+![](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
+
+       Subscribe
+
+You’re not receiving notifications from this thread.
+
+15 participants
+
+ [![](https://avatars.githubusercontent.com/u/494969?s=52&v=4)](/snivas) [ ![](https://avatars.githubusercontent.com/u/1930065?s=52&v=4)
+ ](/JohnOmernik) [ ![](https://avatars.githubusercontent.com/u/2244417?s=52&v=4)
+ ](/gseva) [ ![](https://avatars.githubusercontent.com/u/3307517?s=52&v=4)
+ ](/JavadBahoosh) [ ![](https://avatars.githubusercontent.com/u/5445716?s=52&v=4)
+ ](/meatheadmike) [ ![](https://avatars.githubusercontent.com/u/5958717?s=52&v=4)
+ ](/mauza) [ ![](https://avatars.githubusercontent.com/u/6628839?s=52&v=4)
+ ](/emhlbmc) [ ![](https://avatars.githubusercontent.com/u/6799242?s=52&v=4)
+ ](/wilberh) [ ![](https://avatars.githubusercontent.com/u/7970563?s=52&v=4)
+ ](/noniu) [ ![](https://avatars.githubusercontent.com/u/12524881?s=52&v=4)
+ ](/kupi93) [ ![](https://avatars.githubusercontent.com/u/15028683?s=52&v=4)
+ ](/xianyinxin) [ ![](https://avatars.githubusercontent.com/u/16302003?s=52&v=4)
+ ](/SuiMingYang) [ ![](https://avatars.githubusercontent.com/u/23101260?s=52&v=4)
+ ](/AndreyEmelyanenko) [ ![](https://avatars.githubusercontent.com/u/36203477?s=52&v=4)
+ ](/maddogdata) [![](https://avatars.githubusercontent.com/u/54326778?s=52&v=4)](/aidan-melen) 
+
+Footer
+------
+
+[](https://github.com "GitHub")© 2022 GitHub, Inc.
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/en/github/site-policy/github-terms-of-service)
+*   [Privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Docs](https://docs.github.com)
+*   [Contact GitHub](https://support.github.com?tags=dotcom-footer)
+*   [Pricing](https://github.com/pricing)
+*   [API](https://docs.github.com)
+*   [Training](https://services.github.com)
+*   [Blog](https://github.blog)
+*   [About](https://github.com/about)
+
+You can’t perform that action at this time.
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
+
+You have unread notifications
